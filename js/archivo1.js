@@ -1,5 +1,5 @@
 
-let datos = [8,2,4,1,16];
+let datos = [9,4,3,9,23];
 let resultado = 0;
 let cont=0;
 
